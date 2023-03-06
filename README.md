@@ -1,5 +1,5 @@
 # v2ray_windows_server
-v2ray在windows服务器上搭建服务端
+v2ray在win服务器上搭建服务端
 
 
 ##本地操作：
